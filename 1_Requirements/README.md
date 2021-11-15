@@ -47,6 +47,9 @@ It can be used by anyone at any place.
 1. More financial calculations can be implemented further.
 2. GUI can be used to enhance the visual look of the calculator.
 
+## Threats
+1. Advanced featured calculators are already in the market.
+
 # High Level Requirements
 | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
