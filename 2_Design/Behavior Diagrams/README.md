@@ -1,1 +1,1 @@
-![Flowchart](6_Images/../../../6_Images/Flowchart.pngFlowchart.jpg)
+![Flowchart](https://github.com/alrichroshan/M1_App_FinancialCalculator/blob/main/6_Images/Flowchart.png)
