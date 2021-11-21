@@ -1,4 +1,4 @@
-PROJ_NAME = Financial_Calculator
+PROJ_NAME = M1_App_FinancialCalculator
 SRC = functions.c test_functions.c unity.c
 
 ifdef OS
