@@ -2,7 +2,10 @@
 In this project, a version of the financial calculator program in C is developed which will perform financial calculations depending on the input from the user.
 
 # Linux OS Build
-[![C/C++ CI](https://github.com/alrichroshan/M1_App_FinancialCalculator/actions/workflows/Linux.yml/badge.svg)](https://github.com/alrichroshan/M1_App_FinancialCalculator/actions/workflows/Linux.yml)
+[![Linux OS Build](https://github.com/alrichroshan/M1_App_FinancialCalculator/actions/workflows/Linux.yml/badge.svg)](https://github.com/alrichroshan/M1_App_FinancialCalculator/actions/workflows/Linux.yml)
+
+# Code Quality Score
+[![Code Quality Score](https://api.codiga.io/project/29805/score/svg)
 
 # Folder Structure
 | Folder   |      Description     |  
