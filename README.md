@@ -5,7 +5,10 @@ In this project, a version of the financial calculator program in C is developed
 [![Linux OS Build](https://github.com/alrichroshan/M1_App_FinancialCalculator/actions/workflows/Linux.yml/badge.svg)](https://github.com/alrichroshan/M1_App_FinancialCalculator/actions/workflows/Linux.yml)
 
 # Code Quality Score
-[![Code Quality Score](https://api.codiga.io/project/29805/score/svg)
+![Code Quality Score](https://api.codiga.io/project/29805/score/svg)
+
+# Code Grade
+![Code Grade](https://api.codiga.io/project/29805/status/svg)
 
 # Folder Structure
 | Folder   |      Description     |  
