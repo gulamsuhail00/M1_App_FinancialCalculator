@@ -13,6 +13,9 @@ In this project, a version of the financial calculator program in C is developed
 # Code Quality
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/64062f40fcd344b2af90a97dbfe2653d)](https://www.codacy.com/gh/alrichroshan/M1_App_FinancialCalculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=alrichroshan/M1_App_FinancialCalculator&amp;utm_campaign=Badge_Grade)
 
+# Unit Testing
+[![Unit Testing - Unity](https://github.com/alrichroshan/M1_App_FinancialCalculator/actions/workflows/unity.yml/badge.svg)](https://github.com/alrichroshan/M1_App_FinancialCalculator/actions/workflows/unity.yml)
+
 # Folder Structure
 | Folder   |      Description     |  
 |----------|:-------------:|
