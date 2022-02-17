@@ -26,7 +26,7 @@ This project supports the following types of financial calculations:
 
 ## Where:
 1. This can be used in our daily lives to make better financial decisions.
-2. We can use it in the banking system for calculation.
+2. It can be used in bank for calaculation
 
 ## Who:
 1. It can be used by investors.
